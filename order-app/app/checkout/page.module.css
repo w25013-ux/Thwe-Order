@@ -1,0 +1,49 @@
+/* app/checkout/page.module.css */
+
+.checkout {
+  max-width: 400px;
+  margin: 2rem auto;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.total {
+  font-size: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.confirmButton {
+  padding: 0.75rem 1.5rem;
+  background-color: #10b981;
+  color: #fff;
+  border: none;
+  border-radius: 0.375rem;
+  cursor: pointer;
+}
+
+.thankyou {
+  max-width: 400px;
+  margin: 2rem auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.thankyou h1 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.thankyou p {
+  margin-bottom: 1.5rem;
+}
+
+.thankyou button {
+  padding: 0.5rem 1rem;
+  background-color: #2563eb;
+  color: #fff;
+  border: none;
+  border-radius: 0.375rem;
+  cursor: pointer;
+}
