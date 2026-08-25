@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1787290561298,
+      "tag": "0000_slimy_monster_badoon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1787642798789,
+      "tag": "0001_perpetual_speed_demon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1787645394891,
+      "tag": "0002_last_green_goblin",
+      "breakpoints": true
+    }
+  ]
+}
