@@ -88,4 +88,4 @@ I built this project to practise creating a complete shopping experience, not on
 
 ---
 
-Created by **THI HA AUNG** as a web development portfolio project.
+Created by **THWE THWE AUNG** as a web development portfolio project.
