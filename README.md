@@ -6,6 +6,8 @@
 
 **[View the Golden Wheel Motorbike Shop →](https://thwe-order.vercel.app/)**
 
+Repository: **[w25013-ux/Thwe-Order](https://github.com/w25013-ux/Thwe-Order)**
+
 **Golden Wheel** is a fictional motorcycle shop website that I created as a portfolio project. I wanted it to feel like a real showroom rather than a simple product-list page, so visitors can browse motorcycles, compare models, add riding gear to the cart, complete a sample order, and check the order again using the generated order number.
 
 > **Portfolio demo:** All motorcycles, stock information, store details, orders, and payments on this website are samples. No real payment is processed.
